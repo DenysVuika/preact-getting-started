@@ -5,3 +5,12 @@ body {
   color: $primary-color;
   background-color: $secondary-color;
 }
+
+header {
+  nav {
+    a {
+      color: $primary-color;
+      margin-right: 5px;
+    }
+  }
+}
