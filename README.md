@@ -1,6 +1,7 @@
 # Getting Started with Preact, TypeScript and Parcel
 
-This is an example project that accompanies the following article: [todo: link]
+This is an example project that accompanies the following article:
+[Preact Project with TypeScript and Parcel](https://denys.dev/preact-project-with-typescript-and-parcel/)
 
 ## Running with Yarn
 
